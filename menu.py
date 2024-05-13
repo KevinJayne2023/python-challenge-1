@@ -1,4 +1,3 @@
-# python-challenge-1
 # Menu dictionary
 menu = {
     "Snacks": {
